@@ -5,3 +5,8 @@ UserInterfaceState.xcuserstate
 project.xcworkspace/
 xcuserdata/
 UserInterface.xcuserstate
+# Build folder and log file
+build/
+build.log
+# Google App Engine generated folder
+appengine-generated/
